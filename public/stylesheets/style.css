@@ -1,0 +1,21 @@
+.btn-upd{display: none;}
+body{padding:10px;font:20px "Lucida Grande",Helvetica,Arial,sans-serif}a{color:#00B7FF}.jumbotron{margin-top:50px}
+#tituloTabla{
+    font-size: 40px;
+}
+
+#tituloAnnadir{
+    font-size: 40px;
+}
+#tituloAnnadir2{
+    font-size: 40px;
+}
+.container{
+    margin: 150px 0px;
+    
+    
+    
+}
+.searchBar{
+    margin: 1%;
+}
