@@ -1,9 +1,9 @@
 {
-	"name" : "Ej-node-crud",
+	"name" : "venta casas",
 	"version" : "0.0.1",
-	"description": "Simple Angular TODO app based in MEAN stack with comunio players",
+	"description": "",
 	"main": "app.js",
-	"author": "Alberto Valverde <aber866@hotmail.com>",
+	"author": "Emilio Montero Rangel <emonteror@ucenfotec.ac.cr>",
 	"dependencies" : {
     	"express" : "3.2.6",
     	"mongoose" : "3.6.11"
