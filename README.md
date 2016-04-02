@@ -1,9 +1,5 @@
-comunio-players
+
 ===============
-
-CRUD application with stack MEAN. List of my comunio players.
-
-Main functions: list, add and remove players.
 
 Use instructions:
 
@@ -27,5 +23,5 @@ Use instructions:
 3. Run the server
 	node app.js
 4. In the browser
-	http://localhost:3000
+	http://localhost:7001
 
